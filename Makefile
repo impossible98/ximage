@@ -1,5 +1,5 @@
 APP_NAME := xImage
-APP_VERSION := 0.0.1
+APP_VERSION := 0.1.0
 BIN_NAME := ximage
 
 SHELL := /bin/bash

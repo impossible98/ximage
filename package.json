@@ -1,10 +1,11 @@
 {
     "name": "ximage",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "bin": {
         "ximage": "./dist/main.js"
     },
     "dependencies": {
+        "term-img": "^5.0.0"
     },
     "devDependencies": {
         "@types/node": "^16.0.0",
